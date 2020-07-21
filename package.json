@@ -1,0 +1,22 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "export-pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiralisobhgol/json-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiralisobhgol/json-resume/issues"
+  },
+  "homepage": "https://github.com/amiralisobhgol/json-resume#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
