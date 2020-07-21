@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Amirali Sobhgol",
+    "label": "DevOps Engineer",
+    "picture": "https://i.ibb.co/hm4HmpH/IMG-3724.jpg",
+    "email": "amiralisobhgol@gmail.com",
+    "phone": "+989021551123",
+    "summary": "I'm a Self-taught and motivated DevOps and software Engineer with 5 years of experience.",
+    "location": {
+      "city": "Tehran",
+      "countryCode": "IR"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/amirali-sobhgol"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/amiralisobhgol"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cafebazaar",
+      "position": "DevOps Engineer",
+      "startDate": "2019-04-01",
+      "highlights": [
+        "Increased SLO adoption rate of teams from 0 to 50% with more on the way by organizing workshops and pitching the idea to management.",
+        "Reduced false alarms from more than once a day to less than once a month by applying SRE principles.",
+        "Improved elasticsearch storage & resource load balancing by 50% by using Index Rollover",
+        "Increased data retention from days to years, reduced query latency, and expanded query time range from weeks to years by using M3DB, organizing workshops, and writing documentation."
+      ]
+    },
+    {
+      "company": "Bamilo - Iran Internet Group",
+      "position": "Software Engineer - DevOps Engineer",
+      "startDate": "2018-04-01",
+      "endDate": "2019-04-01",
+      "highlights": [
+        "Increased read throughput by 10x and reduced response latency by ~53x by implementing CQRS pattern.",
+        "increased write throughput by more than 50% via sharding and micro batching."
+      ]
+    },
+    {
+      "company": "Pixels&Code",
+      "position": "Full-stack Developer",
+      "startDate": "2015-07-01",
+      "endDate": "2018-04-01",
+      "highlights": [
+        "Developed and maintained 3 web applications for our clients",
+        "Suggested & Implemented framework to improve development speed by 15%"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Containers & Container Orchestration",
+      "level": "Expert",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Nomad",
+        "Swarm"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Expert",
+      "keywords": [
+        "Prometheus"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Proficient"
+    },
+    {
+      "name": "Automation",
+      "level": "Proficient",
+      "keywords": [
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Proficient",
+      "keywords": [
+        "Elasticsearch",
+        "Uber M3",
+        "Redis",
+        "Postgres"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Proficient",
+      "keywords": [
+        "Javascript",
+        "Golang"
+      ]
+    },
+    {
+      "name": "Messaging Systems",
+      "level": "Proficient",
+      "keywords": [
+        "kafka"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Proficient",
+      "keywords": [
+        "Gitlab CI"
+      ]
+    },
+    {
+      "name": "Network",
+      "level": "Competent",
+      "keywords": [
+        "TCP/IP",
+        "Application Layer Protocols"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Pyschology",
+      "keywords": [
+        "Transactional Analysis",
+        "Self-Help"
+      ]
+    },
+    {
+      "name": "Movies",
+      "keywords": [
+        "Comedy",
+        "Science Fiction"
+      ]
+    },
+    {
+      "name": "Books",
+      "keywords": [
+        "Psychology",
+        "Technical",
+        "Self-Help"
+      ]
+    }
+  ]
+}
