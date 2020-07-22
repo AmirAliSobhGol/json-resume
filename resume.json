@@ -2,7 +2,6 @@
   "basics": {
     "name": "Amirali Sobhgol",
     "label": "DevOps Engineer",
-    "picture": "https://i.ibb.co/hm4HmpH/IMG-3724.jpg",
     "email": "amiralisobhgol@gmail.com",
     "phone": "+989021551123",
     "summary": "I'm a self-taught and motivated DevOps Engineer with 5 years of experience.",
@@ -133,17 +132,10 @@
       ]
     },
     {
-      "name": "Movies",
-      "keywords": [
-        "Comedy",
-        "Science Fiction"
-      ]
-    },
-    {
       "name": "Books",
       "keywords": [
-        "Psychology",
         "Technical",
+        "Psychology",
         "Self-Help"
       ]
     }

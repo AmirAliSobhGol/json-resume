@@ -7,7 +7,7 @@ async function printPDF() {
   await page.emulateMediaType('screen');
   const pdf = await page.pdf({ 
     width: '10.9in',
-    height: '14.5in',
+    height: '13.0in',
     path: './build/resume.pdf',
     printBackground: true,
     displayHeaderFooter: true,
