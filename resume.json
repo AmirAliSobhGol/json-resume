@@ -25,6 +25,7 @@
       "company": "Cafebazaar",
       "position": "DevOps Engineer",
       "startDate": "2019-04-01",
+      "summary": "Cafebazaar is the leading android marketplace in Iran with +44M active users.",
       "highlights": [
         "Increased SLO adoption rate of teams from 0 to 50% with more on the way by organizing workshops and pitching the idea to management.",
         "Reduced false alarms from more than once a day to less than once a month by applying SRE principles.",
@@ -33,10 +34,11 @@
       ]
     },
     {
-      "company": "Bamilo - Iran Internet Group",
-      "position": "Software Engineer - DevOps Engineer",
+      "company": "Bamilo",
+      "position": "DevOps Engineer",
       "startDate": "2018-04-01",
       "endDate": "2019-04-01",
+      "summary": "Bamilo as a subsidiary of Iran Internet Group was a online retailer with +1M active users.",
       "highlights": [
         "Increased read throughput by 10x and reduced response latency by ~53x by implementing CQRS pattern.",
         "increased write throughput by more than 50% via sharding and micro batching."
@@ -73,7 +75,12 @@
     },
     {
       "name": "Linux",
-      "level": "Proficient"
+      "level": "Proficient",
+      "keywords": [
+        "Debian",
+        "Bash",
+        "Kernel Internals"
+      ]
     },
     {
       "name": "Automation",
@@ -96,7 +103,7 @@
       "name": "Software Engineering",
       "level": "Proficient",
       "keywords": [
-        "Javascript",
+        "Node.js/Javascript",
         "Golang"
       ]
     },
@@ -104,7 +111,7 @@
       "name": "Messaging Systems",
       "level": "Proficient",
       "keywords": [
-        "kafka"
+        "Kafka"
       ]
     },
     {
@@ -120,6 +127,13 @@
       "keywords": [
         "TCP/IP",
         "Application Layer Protocols"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Novice",
+      "keywords": [
+        "AWS"
       ]
     }
   ],
